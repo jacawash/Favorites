@@ -8,4 +8,5 @@ You will need to cloe this repo and rebuild
 ### After cloning 
 
 You will need to get three of your own images and
- replace the ones that are in assets > images folder.
+ replace the ones that are in assets
+  > images folder.
